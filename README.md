@@ -2,8 +2,5 @@
 Just an example for my Tutorial.
 
 
-https://travis-ci.com/cctingcc1009/GitProjectTutorialExample.svg?branch=master
+[![Build Status](https://travis-ci.com/cctingcc1009/GitProjectTutorialExample.svg?branch=master)](https://travis-ci.com/cctingcc1009/GitProjectTutorialExample)
 
-Tutorial PPT :
-
-https://slides.com/jimting/git/#/
